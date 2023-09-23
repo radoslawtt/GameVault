@@ -1,45 +1,50 @@
-GameVault
-Overview
-"GameVault" is an advanced gaming platform that offers users a variety of games combined with a sophisticated system for managing scores and progress. By integrating database technology with a user interface, "GameVault" emphasizes innovation and usability.
+**GameVault Overview**
 
-User Interface Features
-Authentication Module (user_auth):
-Allows users to register in the system, log in, and recover their password.
-Ensures security through user data verification and protection against unauthorized access.
-User Panel (user_panel):
-Once logged in, users have access to their individual panel.
-The panel allows users to view their profile, game scores, and manage account settings.
-Available Games
-Snake (snake):
+**Introduction**
 
-The classic Snake game where the goal is to control the snake to eat food and avoid collisions with walls and itself.
-With each piece of food consumed, the snake grows, increasing the level of difficulty.
-Tetris (tetris):
+"GameVault" is an **advanced gaming platform** designed to provide users with a diverse selection of games and a sophisticated system for managing scores and progress. Combining **database technology** with an **intuitive user interface**, "GameVault" prioritizes **innovation** and **user-friendliness** to deliver a captivating gaming experience.
 
-The legendary Tetris where the player has to arrange falling blocks in such a way to fill horizontal lines without gaps.
-Points are awarded for each completed line.
-Hangman (hangman):
+**User Interface Features**
 
-A word game where the goal is to guess the hidden word by choosing letters.
-For each mistake, another part of the hangman is drawn. The goal is to guess the word before the hangman is completed.
-Sudoku (sudoku):
+**Authentication Module (user_auth):**
+- **User Registration**: Users can easily register in the system, providing their necessary information.
+- **Login**: Registered users can log into their accounts securely.
+- **Password Recovery**: In the event of forgotten passwords, users have the option to recover their accounts.
+- **Security Measures**: Stringent security measures are in place to verify user data and safeguard against unauthorized access.
 
-A logical number game where the goal is to fill a 9x9 board with numbers from 1 to 9 in such a way that in each row, column, and each of the nine 3x3 squares, each number appears only once.
-GameVault
-Description
-"GameVault" is an advanced gaming platform offering users a variety of games and a sophisticated system for managing scores and progress. By merging database technology with a user interface, "GameVault" stands out in terms of innovation and user-friendliness.
+**User Panel (user_panel):**
+- **Personalized Experience**: Once logged in, users gain access to their individualized panel.
+- **Profile Management**: Users can view and update their profile information.
+- **Game Scores**: Detailed game scores and progress tracking are available for users to monitor their achievements.
+- **Account Settings**: Users have the capability to manage their account settings for a tailored experience.
 
-Interface Features
-Authentication Module: Enables registration, login, and password recovery.
-User Panel: After logging in, users access their panel, where they can view scores, manage account settings, and start new games.
-Games Available
-Snake: Control the snake, eat food, and avoid collisions.
-Tetris: Arrange falling blocks and earn points for completed lines.
-Hangman: Guess the hidden word before the hangman is completed.
-Sudoku: Fill the board with numbers following Sudoku rules.
-How to Use?
-Clone the repository.
-Install the required packages using pip install -r requirements.txt.
-Change host, password and user in database.py
-Run configuration.py
-Run the main file main.py.
+**Available Games**
+
+**Snake (snake):**
+- **Description**: The classic Snake game challenges players to control a growing snake as it consumes food and avoids collisions with walls and itself.
+- **Difficulty Levels**: As the snake consumes food, it increases in length, intensifying the gameplay.
+
+**Tetris (tetris):**
+- **Description**: The legendary Tetris game tasks players with arranging falling blocks to complete horizontal lines without gaps.
+- **Scoring**: Points are awarded for each successfully completed line, encouraging strategic block placement.
+
+**Hangman (hangman):**
+- **Description**: Hangman is a word game where players guess a hidden word by selecting letters. Mistakes result in the gradual drawing of a hangman figure.
+- **Objective**: The goal is to guess the word correctly before the hangman is fully drawn.
+
+**Sudoku (sudoku):**
+- **Description**: Sudoku is a logic-based number puzzle game where players aim to fill a 9x9 board with numbers from 1 to 9, ensuring that each number appears only once in each row, column, and 3x3 square.
+- **Logic and Strategy**: Players must employ logic and strategy to solve the puzzle, making it a cerebral challenge.
+
+**GameVault Description**
+
+"GameVault" is an **gaming platform** offering users a diverse selection of games and a comprehensive system for tracking scores and progress. By seamlessly integrating **database technology** with an **intuitive user interface**, "GameVault" distinguishes itself through its commitment to **innovation** and **user-friendliness**.
+
+**How to Use**
+
+**Installation Steps:**
+1. Clone the repository to your local machine.
+2. Install the necessary packages by running `pip install -r requirements.txt`.
+3. Modify the database configuration in `database.py`, including the host, password, and user.
+4. Execute `configuration.py` to set up initial configurations.
+5. Run the main application by executing `main.py`.
