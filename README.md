@@ -4,6 +4,98 @@
 
 "GameVault" is an **advanced gaming platform** designed to provide users with a diverse selection of games and a sophisticated system for managing scores and progress. Combining **database technology** with an **intuitive user interface**, "GameVault" prioritizes **innovation** and **user-friendliness** to deliver a captivating gaming experience.
 
+# Login images
+<details>
+  <summary>Login</summary>
+  
+  ![](images/Screenshot_1.png)
+</details>
+
+<details>
+  <summary>Register</summary>
+  
+  ![](images/Screenshot_3.png)
+</details>
+
+<details>
+  <summary>Forgot password</summary>
+
+  ![](images/Screenshot_2.png)
+  ![](images/Screenshot_23.png)
+  ![](images/Screenshot_24.png)
+</details>
+
+# Account view
+<details>
+  <summary>Games</summary>
+  
+  ![](images/Screenshot_6.png)
+  <details>
+    <summary>Sudoku</summary>
+
+  ![](images/Screenshot_14.png)
+  ![](images/Screenshot_15.png)
+  ![](images/Screenshot_16.png)
+  </details>
+
+  <details>
+    <summary>Snake</summary>
+
+  ![](images/Screenshot_11.png)
+  ![](images/Screenshot_12.png)
+  ![](images/Screenshot_13.png)
+  </details>
+
+  <details>
+    <summary>Hangman</summary>
+
+  ![](images/Screenshot_17.png)
+  ![](images/Screenshot_18.png)
+  ![](images/Screenshot_19.png)
+  </details>
+
+  <details>
+    <summary>Tetris</summary>
+
+  ![](images/Screenshot_20.png)
+  ![](images/Screenshot_21.png)
+  ![](images/Screenshot_22.png)
+  </details>
+
+</details>
+
+<details>
+  <summary>Account settings</summary>
+
+  ![](images/Screenshot_5.png)
+
+  <details>
+    <summary>Change username</summary>
+
+  ![](images/Screenshot_7.png)
+  </details>
+
+  <details>
+    <summary>Delete account</summary>
+
+  ![](images/Screenshot_10.png)
+  </details>
+
+  <details>
+    <summary>Change password</summary>
+
+  ![](images/Screenshot_8.png)
+  </details>
+
+  <details>
+    <summary>Change security question</summary>
+
+ ![](images/Screenshot_9.png)
+  </details>
+
+</details>
+
+
 **User Interface Features**
 
 **Authentication Module (user_auth):**
