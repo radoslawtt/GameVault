@@ -1,4 +1,4 @@
-**GameVault Overview**
+# GameVault Overview
 
 **Introduction**
 
