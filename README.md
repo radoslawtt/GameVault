@@ -96,7 +96,7 @@
 </details>
 
 
-**User Interface Features**
+# User Interface Features
 
 **Authentication Module (user_auth):**
 - **User Registration**: Users can easily register in the system, providing their necessary information.
